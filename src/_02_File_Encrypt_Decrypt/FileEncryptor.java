@@ -94,3 +94,4 @@ public class FileEncryptor {
 		
 	}
 }
+Copyright © 2019 Millan Kumar
